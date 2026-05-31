@@ -6,6 +6,6 @@ This format was created as a experement and replacement for the built-in NFP ima
 - mmif_processing(console)  : a console application for the API (just for convenience)
 - mmif_viewer					      : can display image and video
 - video_convertor				    : python script for converting other formats into MMIF
-### video convertation support WITH AUDIO!!!
+### video convertation support WITH AUDIO!!! (coution: audio convertation SO BAD AND NOIZY)
 
 for using in ComputerCraft/tweaked: download https://github.com/sashafiesta/CC-Graphics
