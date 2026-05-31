@@ -8,4 +8,9 @@ This format was created as a experement and replacement for the built-in NFP ima
 - video_convertor				    : python script for converting other formats into MMIF
 ### video convertation support WITH AUDIO!!! (coution: audio convertation SO BAD AND NOIZY)
 
+(MMIF-video may crashing the CC)
 for using in ComputerCraft/tweaked: download https://github.com/sashafiesta/CC-Graphics
+
+TODO:
+fix audio;
+add flag -- samp_rate for changing sample rate;
