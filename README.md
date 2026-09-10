@@ -8,7 +8,3 @@ This format was created as a experiment and replacement for the built-in NFP ima
 
 (MMIF-video may crashing the CC)
 for using in ComputerCraft/tweaked: download https://github.com/sashafiesta/CC-Graphics
-
-TODO:
-fix audio;
-add flag -- samp_rate for changing sample rate;
